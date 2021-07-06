@@ -1,0 +1,60 @@
+  .blue {
+    background-color: rgb(61, 114, 150);
+    height: 100%;
+    border-radius: 10px;
+  }
+  .blue-1 {
+    background-color: rgb(46, 110, 107);
+    height: 100%;
+    border-radius: 10px;
+  }
+  .green {
+    background-color: rgb(26, 109, 74);
+    height: 100%;
+    border-radius: 10px;
+  }
+  .green-1 {
+    background-color: rgb(59, 109, 26);
+    height: 100%;
+    border-radius: 10px;
+  }
+  .green-2 {
+    background-color: rgb(74, 155, 20);
+    height: 100%;
+    border-radius: 10px;
+  }
+  .yellow {
+    background-color: rgb(179, 169, 37);
+    height: 100%;
+    border-radius: 10px;
+  }
+  .yellow-1 {
+    background-color: rgb(179, 146, 37);
+    height: 100%;
+    border-radius: 10px;
+  }
+  .red {
+    background-color: rgb(177, 77, 47);
+    height: 100%;
+    border-radius: 10px;
+  }
+  .red-1 {
+    background-color: rgb(202, 42, 104);
+    height: 100%;
+    border-radius: 10px;
+  }
+  .red-2 {
+    background-color: rgb(238, 0, 91);
+    height: 100%;
+    border-radius: 10px;
+  }
+  .lila {
+    background-color: rgb(177, 47, 166);
+    height: 100%;
+    border-radius: 10px;
+  }
+  .purple {
+    background-color: rgb(177, 47, 166);
+    height: 100%;
+    border-radius: 10px;
+  }
