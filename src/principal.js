@@ -41,6 +41,7 @@ function QuoteBox () { // lo unico que hago es regresar una funcion con los valo
             <div className="author">--  {author}</div>
             <div>
                 <button className="change" onClick={next}>NEXT</button>
+                Prueba actualizada
             </div>         
         </div>
     )
